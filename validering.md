@@ -15,6 +15,7 @@
 * rad 28 satte hela paragrafen i samma rad så att slut taggen märks av
 * rad 43 satte till sluttaggen a så att länken inte täcker allting
 * rad 28 tog bort p taggen för den var onödig
+* rad 26 lade till en alt till img för det är nödvändigt
 
 ##Css
 * Stängde sitatet i rad 6
