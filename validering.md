@@ -6,6 +6,7 @@
 * rad 25 ändrade slut taggen från en h2 till h3
 * ändrade listans "a" markering pär punkt till "li"
 * rad 12 tog bort "center"
+* rad 29 tog bort en ">" för det var en för många
 
 ##Css
 * Stängde sitatet i rad 6
