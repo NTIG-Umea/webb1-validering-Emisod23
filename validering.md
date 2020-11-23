@@ -16,7 +16,7 @@
 * rad 28 tog bort p taggen för den var onödig
 * rad 26 lade till en alt till img för det är nödvändigt
 * första listan behövde också ha li taggen runt varje punkt så att det är en lista
-
+* rad 37 tog bort tid taggen för den funkar inte när det är tidsintervall
 
 ##Css
 * Stängde sitatet i rad 6
