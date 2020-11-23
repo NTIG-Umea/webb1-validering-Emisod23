@@ -7,6 +7,7 @@
 * ändrade listans "a" markering pär punkt till "li"
 * rad 12 tog bort "center"
 * rad 29 tog bort en ">" för det var en för många
+* rad 29 tog bort nollorna så att det visar ett faktiskt år
 
 ##Css
 * Stängde sitatet i rad 6
