@@ -12,6 +12,7 @@
 * rad 45 hade ingen p tagg
 * rad 26 tog bort "px" (verkade onödig)
 * rad 41 lade till en start p tagg för det saknades
+* rad 28 satte hela paragrafen i samma rad så att slut taggen märks av
 
 ##Css
 * Stängde sitatet i rad 6
