@@ -11,6 +11,7 @@
 * den andra listan hade sina li utanför ul taggen och en av li stavades lI
 * rad 45 hade ingen p tagg
 * rad 26 tog bort "px" (verkade onödig)
+* rad 41 lade till en start p tagg för det saknades
 
 ##Css
 * Stängde sitatet i rad 6
